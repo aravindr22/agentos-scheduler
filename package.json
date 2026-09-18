@@ -1,0 +1,12 @@
+{
+  "name": "status-scheduler",
+  "version": "1.0.0",
+  "description": "Single-file Node.js status API with a 5-minute scheduler",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
